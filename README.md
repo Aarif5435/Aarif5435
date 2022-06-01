@@ -7,7 +7,7 @@ Full Stack Web Developer
 I'm was always passionate about Technology since my childhood, My curiosity of how different technologies work lead me to computer science background. Where i found that i'm more interested in web development. So decided to become a Full-Stack-Web Developer
 
 * 🌍  I'm based in Jaipur, Raj.
-* 🖥️  See my portfolio at [MyPortfolio](https://aarif-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio]([https://aarif-portfolio.netlify.app/](https://aarif-personal-portfolio.netlify.app/))
 * ✉️  You can contact me at [aarif.mohammad0909@gmail.com](mailto:aarif.mohammad0909@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Frontend Projects
