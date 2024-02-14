@@ -8,7 +8,7 @@ I'm was always passionate about Technology since my childhood, My curiosity of h
 
 * 🌍  I'm based in Jaipur, Raj.
 * 🖥️  See my portfolio at [MyPortfolio](https://aarif-mohammad.netlify.app/)
-* ✉️  You can contact me at [aarif.mohammad0909@gmail.com](mailto:aarif.moha0909@gmail.com)
+* ✉️  You can contact me at [aarif.moha0909@gmail.com](mailto:aarif.moha0909@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Frontend Projects
 
